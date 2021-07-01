@@ -4,3 +4,4 @@ Hong Kong 18 district data in JSON format, Traditional Chinese, English & Simpli
 
 Hope this will help your work/ project too :)
 
+License: do whatever you want
