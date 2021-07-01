@@ -1,0 +1,20 @@
+[
+  {
+    "id": "nt",
+    "name_en": "New Territories",
+    "name_zh": "新界",
+    "name_cn": "新界"
+  },
+  {
+    "id": "hk",
+    "name_en": "Hong Kong",
+    "name_zh": "香港",
+    "name_cn": "香港"
+  },
+  {
+    "id": "kt",
+    "name_en": "Kowloon",
+    "name_zh": "九龍",
+    "name_cn": "九龙"
+  }
+]
