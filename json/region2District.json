@@ -1,0 +1,134 @@
+[
+  {
+    "id": "nt",
+    "name_en": "New Territories",
+    "name_zh": "新界",
+    "name_cn": "新界",
+    "districts": [
+      {
+        "id": "kc",
+        "name_en": "Kwai Tsing",
+        "name_zh": "葵青",
+        "name_cn": "葵青"
+      },
+      {
+        "id": "nth",
+        "name_en": "North",
+        "name_zh": "北區",
+        "name_cn": "北区"
+      },
+      {
+        "id": "sk",
+        "name_en": "Sai Kung",
+        "name_zh": "西貢區",
+        "name_cn": "西贡"
+      },
+      {
+        "id": "st",
+        "name_en": "Sha Tin",
+        "name_zh": "沙田區",
+        "name_cn": "沙田"
+      },
+      {
+        "id": "tm",
+        "name_en": "Tuen Mun",
+        "name_zh": "屯門",
+        "name_cn": "屯门"
+      },
+      {
+        "id": "tp",
+        "name_en": "Tai Po",
+        "name_zh": "大埔",
+        "name_cn": "大埔"
+      },
+      {
+        "id": "tw",
+        "name_en": "Tsuen Wan",
+        "name_zh": "荃灣",
+        "name_cn": "荃湾"
+      },
+      {
+        "id": "yl",
+        "name_en": "Yuen Long",
+        "name_zh": "元朗",
+        "name_cn": "元朗"
+      }
+    ]
+  },
+  {
+    "id": "hk",
+    "name_en": "Hong Kong",
+    "name_zh": "香港",
+    "name_cn": "香港",
+    "districts": [
+      {
+        "id": "cw",
+        "name_en": "Central and Western",
+        "name_zh": "中西區",
+        "name_cn": "中西区"
+      },
+      {
+        "id": "est",
+        "name_en": "Eastern",
+        "name_zh": "東區",
+        "name_cn": "东区"
+      },
+      {
+        "id": "ild",
+        "name_en": "Islands",
+        "name_zh": "離島",
+        "name_cn": "离岛"
+      },
+      {
+        "id": "sth",
+        "name_en": "Southern",
+        "name_zh": "南區",
+        "name_cn": "南区"
+      },
+      {
+        "id": "wc",
+        "name_en": "Wan Chai",
+        "name_zh": "灣仔",
+        "name_cn": "湾仔"
+      }
+    ]
+  },
+  {
+    "id": "kt",
+    "name_en": "Kowloon",
+    "name_zh": "九龍",
+    "name_cn": "九龙",
+    "districts": [
+      {
+        "id": "klc",
+        "name_en": "Kowloon City",
+        "name_zh": "九龍城",
+        "name_cn": "九龙城"
+      },
+      {
+        "id": "kt",
+        "name_en": "Kwun Tong",
+        "name_zh": "觀塘",
+        "name_cn": "观塘"
+      },
+      {
+        "id": "ssp",
+        "name_en": "Sham Shui Po",
+        "name_zh": "深水埗區",
+        "name_cn": "深水埗"
+      },
+      {
+        "id": "wts",
+        "name_en": "Wong Tai Sin",
+        "name_zh": "黃大仙",
+        "name_cn": "黄大仙"
+      },
+      {
+        "id": "ysm",
+        "name_en": "Yau Tsim Mong",
+        "name_zh": "油尖旺",
+        "name_cn": "油尖旺"
+      }
+    ]
+  }
+]
